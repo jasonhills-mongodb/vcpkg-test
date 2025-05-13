@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  vcpkg_installed/x64-linux/lib/libz.a vcpkg_installed/x64-linux/debug/lib/libfmtd.a 
